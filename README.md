@@ -19,7 +19,5 @@ Data Analysis App is a lightweight, menu-driven desktop tool offering CSV previe
 ## Install & Run
 1. **Clone**  
    ```bash
-   git clone https://github.com/<you>/data_analysis_app.git
+   git clone https://github.com/Anaghacs7/data_analysis_app.git
    cd data_analysis_app
-License
-MIT © Anaghacs7
